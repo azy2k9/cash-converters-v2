@@ -1,0 +1,3 @@
+# cash-converters-v2
+
+Its shocking how hard it is to buy a phone from the cash-converters website despite them having some great deals. So im going to web-scrape all the cash coverts data and build my own site with proper filtering...
